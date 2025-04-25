@@ -5,7 +5,7 @@ from telegram.ext import Application, MessageHandler, filters
 from telegram import Update
 from telegram.ext import ContextTypes
 
-TOKEN = "7609983419:AAG8ZMtbOxed7fzoi6N3HCUEdbjAUvtex2g"
+TOKEN = "7794147282:AAFhJFb2fTvVgQxzy20oehf7S0rV6hIF4dk"
 
 # логирование
 logging.basicConfig(
